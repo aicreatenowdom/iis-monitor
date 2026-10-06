@@ -42,6 +42,12 @@ For a pre-purchase compatibility check, email [info@aicreatenow.com](mailto:info
 
 See [support information](SUPPORT.md) for what to include when requesting help.
 
+## Practical guide and release notes
+
+[Getting started and common questions](GETTING-STARTED.md) · [GitHub release notes](https://github.com/aicreatenowdom/iis-monitor/releases) · [Support](SUPPORT.md)
+
+GitHub's **Code → Download ZIP** contains this repository's documentation and artwork. Get the Windows application through the [official product page](https://aicreatenow.com/IISMonitor.html).
+
 ## Source and licensing
 
 This repository contains documentation for proprietary software. Application source code is not included. Obtain the application and its applicable terms through the official product page.
