@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://download.aicreatenow.com/software/ServerSightPro3.0.0.20microsoft2.exe"><strong>Download free trial</strong></a> ·
   <a href="https://serversightpro.com/">Official website</a> ·
+  <a href="https://apps.microsoft.com/detail/xp8lmxrs0t4600?hl=en-US&amp;gl=US">Microsoft Store</a> ·
   <a href="https://serversightpro.com/screenshots.html">Screenshots &amp; video</a> ·
   <a href="https://buy.stripe.com/5kQdRb77Z28UfME5ZQ5kk03">Buy lifetime license</a>
 </p>
