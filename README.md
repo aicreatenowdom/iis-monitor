@@ -86,12 +86,12 @@ Connection counts are not unique visitors. Requests served entirely by a CDN cac
 [info@aicreatenow.com](mailto:info@aicreatenow.com) · 1-866-315-4750  
 [Application privacy](https://serversightpro.com/privacy.html) · [Company website](https://aicreatenow.com/)
 
-[Getting started & common questions](GETTING-STARTED.md) · [Support](SUPPORT.md) · [GitHub release history](https://github.com/aicreatenowdom/iis-monitor/releases)
+[Getting started & common questions](GETTING-STARTED.md) · [Support](SUPPORT.md) · [GitHub release history](https://github.com/aicreatenowdom/serversight-pro/releases)
 
 ## About this repository
 
 This repository provides documentation and artwork for proprietary software. Application source code is not included. GitHub's **Code → Download ZIP** downloads the documentation and artwork; use the [official Windows download](https://serversightpro.com/download.html) to get the application and its applicable terms.
 
-The existing repository address is retained so published links continue to work. For current branding, downloads and documentation, use **[ServerSightPro.com](https://serversightpro.com/)**.
+The official repository is [aicreatenowdom/serversight-pro](https://github.com/aicreatenowdom/serversight-pro), matching the current product name. For current branding, downloads and documentation, use **[ServerSightPro.com](https://serversightpro.com/)**.
 
 © 2026 AI Creations Now Software Development.
